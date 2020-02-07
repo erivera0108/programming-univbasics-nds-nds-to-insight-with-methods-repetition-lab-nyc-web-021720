@@ -48,10 +48,12 @@ end
   # return the total
   
 def total_gross(source)
-  result = 0  
+  result = { }  
   index = 0 
   while index < source do 
-    result = list_of_directors
+    dir_name = list_of_directors(source)
+    
+    while 
   end 
 end
 
