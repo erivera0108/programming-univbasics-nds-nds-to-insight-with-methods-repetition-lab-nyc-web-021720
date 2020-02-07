@@ -48,8 +48,8 @@ end
   # return the total
   
 def total_gross(source)
-  result = { }  
-  index = 0 
+  dir_name  = list_of_directors(source)
+  gross = directors_totals
 
 end
 
