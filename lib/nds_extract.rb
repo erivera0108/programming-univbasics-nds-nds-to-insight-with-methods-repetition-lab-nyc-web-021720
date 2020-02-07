@@ -47,6 +47,7 @@ end
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
   
+=begin
 def total_gross(source)
   result = { }  
   index = 0 
@@ -57,5 +58,6 @@ def total_gross(source)
     end 
   end 
 end
+=end 
 
 
