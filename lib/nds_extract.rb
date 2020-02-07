@@ -49,7 +49,8 @@ end
   
 def total_gross(source)
   dir_name  = list_of_directors(source)
-  gross = directors_totals
+  gross = directors_totals(source)
+  total = 0 
 
 end
 
