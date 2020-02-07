@@ -53,7 +53,8 @@ def total_gross(source)
   while index < source do 
     dir_name = list_of_directors(source)
     list_index = 0 
-    while list_index < source
+    while list_index < source  do 
+    end 
   end 
 end
 
